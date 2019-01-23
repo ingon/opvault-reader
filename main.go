@@ -6,7 +6,6 @@ import (
 	"regexp"
 	"time"
 
-	// "github.com/Ingon/1passread/opvault"
 	"github.com/atotto/clipboard"
 	"github.com/miquella/opvault"
 )
@@ -56,7 +55,7 @@ func main() {
 	for _, field := range detail.Fields() {
 		val := field.Value()
 
-		if field.Type() == opvault.PasswordFieldType {
+		if field.Type() == opvault.PasswordFieldType || field.Designation() == opvault.PasswordDesignation {
 			secrets = append(secrets, Secret{
 				name:  field.Name(),
 				value: val,

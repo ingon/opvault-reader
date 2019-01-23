@@ -1,4 +1,4 @@
-module github.com/Ingon/1passread
+module github.com/Ingon/opvault-reader
 
 require (
 	github.com/atotto/clipboard v0.1.1
