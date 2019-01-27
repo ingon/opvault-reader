@@ -1,6 +1,6 @@
+github.com/Ingon/opvault v0.0.0-20151023011747-a50ce0e99fae h1:m/tJsBeV9sk2/KDlDrC+8iSEGZ6LS8p4sLwYB8Vc3HA=
+github.com/Ingon/opvault v0.0.0-20151023011747-a50ce0e99fae/go.mod h1:lZRsE04P/RrbS4Ug8pbJesqGqmECSAaR1O+UPy3gXpg=
 github.com/atotto/clipboard v0.1.1 h1:WSoEbAS70E5gw8FbiqFlp69MGsB6dUb4l+0AGGLiVGw=
 github.com/atotto/clipboard v0.1.1/go.mod h1:ZY9tmq7sm5xIbd9bOK4onWV4S6X0u6GY7Vn0Yu86PYI=
-github.com/miquella/opvault v0.0.0-20151023011747-a50ce0e99fae h1:Bm2mG27yfrkkQoM+ZSUEgRez1++o4koLJsRm5FcoT4c=
-github.com/miquella/opvault v0.0.0-20151023011747-a50ce0e99fae/go.mod h1:9FUH+7HkcqTIS1jKLnyvutuOeB5N2E5iUw70yY+Cq4I=
 golang.org/x/crypto v0.0.0-20190122013713-64072686203f h1:u1CmMhe3a44hy8VIgpInORnI01UVaUYheqR7x9BxT3c=
 golang.org/x/crypto v0.0.0-20190122013713-64072686203f/go.mod h1:6SG95UA2DQfeDnfUPMdvaQW0Q7yPrPDi9nlGo2tz2b4=

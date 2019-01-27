@@ -6,8 +6,8 @@ import (
 	"regexp"
 	"time"
 
+	"github.com/Ingon/opvault"
 	"github.com/atotto/clipboard"
-	"github.com/miquella/opvault"
 )
 
 type Secret struct {
